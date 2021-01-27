@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/building-calculator-demo/static/css/main.b8575265.chunk.css",
+    "main.js": "/building-calculator-demo/static/js/main.fd0e28da.chunk.js",
+    "main.js.map": "/building-calculator-demo/static/js/main.fd0e28da.chunk.js.map",
+    "runtime-main.js": "/building-calculator-demo/static/js/runtime-main.222dd29c.js",
+    "runtime-main.js.map": "/building-calculator-demo/static/js/runtime-main.222dd29c.js.map",
+    "static/js/2.b3962550.chunk.js": "/building-calculator-demo/static/js/2.b3962550.chunk.js",
+    "static/js/2.b3962550.chunk.js.map": "/building-calculator-demo/static/js/2.b3962550.chunk.js.map",
+    "index.html": "/building-calculator-demo/index.html",
+    "precache-manifest.bba6ca67bffbd3ee167195a0ceef5a11.js": "/building-calculator-demo/precache-manifest.bba6ca67bffbd3ee167195a0ceef5a11.js",
+    "service-worker.js": "/building-calculator-demo/service-worker.js",
+    "static/css/main.b8575265.chunk.css.map": "/building-calculator-demo/static/css/main.b8575265.chunk.css.map",
+    "static/js/2.b3962550.chunk.js.LICENSE.txt": "/building-calculator-demo/static/js/2.b3962550.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.222dd29c.js",
+    "static/js/2.b3962550.chunk.js",
+    "static/css/main.b8575265.chunk.css",
+    "static/js/main.fd0e28da.chunk.js"
+  ]
+}
